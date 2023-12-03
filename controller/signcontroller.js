@@ -66,7 +66,7 @@ const CheckVerifyUser = async(token)=>{
             return `<h4>Registeration successfull</h4>
             <h5>welcome to the app</h5>
             <p>You are successfully registered</p>
-            <a href=https://subbu-recipe-book.onrender.com/login >Login</a>
+            <a href=https://subbu-recipe-bookapp.netlify.app/login >Login</a>
             <p>regards</p>
             <p>Team</p>`;
         }
